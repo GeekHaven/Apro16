@@ -1,5 +1,5 @@
 var allevents = {
-	'CMaster':{
+	'Android':{
 						'rule':'1.There will be two rounds(First Round - Question Answer, Second Round - buzzer round)<br>2.Time limit will be 15-20 minutes for each round<br>3.No external help is allowed.<br>4.Team of maximum 2 members',
 						'description':'Show your android knowledge!',
 						'contacts':'Kumar Sanyam(IIT2015121)<br>Naz Tabassum(ICM2014504)<br>Upasana Singh(IIT2014053)'
