@@ -42,6 +42,11 @@ function initEventScripts(){
 		var rule = "To be updated soon."
 		var organizers = "To be updated soon."
 		info = this.id;
+
+		console.log("ID"+  info);
+		console.log("Allevent"+ allevents);
+		console.log("HAS??"+ allevents.hasOwnProperty('Webkriti'));
+
 		if(allevents.hasOwnProperty(info)){
 			if(allevents[info].hasOwnProperty('description'))
 				description = allevents[info]['description'];
