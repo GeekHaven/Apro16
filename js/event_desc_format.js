@@ -14,12 +14,22 @@ var allevents = {
 						'description':'Designing is a crucial element in any field. If you want your users to like and  be engaged in your product, then designing is the foremost thing you should excel at. Design an app based on a given theme to show your skills and win exciting prizes.',
 						'contacts':'1>saurav kumar mishra(ibm2013011): 7376786024<br>2> pankaj kumar (ibm2013008) : 9473854454<br>3> garima gupta(ibm2013022): 8542078059<br>4> krishna maurya(ibm2014011)'
 					},
+	'Bolt':{
+						'rule':'1. Team can contain any number of members , there will be no prelims it’s open to all .<br>2.Team should have to bring their own robots .<br>3.A total of 15 minutes run time (arena time) will be given to every team.<br>4.During the game play, if any part of a robot is destructed/ dismantled/ damaged the team will be given a timeout to repair at an expense of a penalty, while the next team for will be called the play.<br>5.Once the race begins,  hand touches are not allowed. <br>6.If the Robot traverse the path, and moves off track, then the Robot would be placed back at a checkpoint with an expense of penalty.<br>7.wireless and custom made robots will be awarded extra credits.<br>Requirements:Plywood , cardboard  and cutter for the designing arena, thermocol , coloured paper charts . some wires , etc .',
+						'description':'Speed!! Speed!! Speed!! In this world of everlasting competition, speed is the word. Blasting through your way at an awe inspiring pace, indulge your robust bots in the exciting race. "One, who falls behind, is left behind." So pack your bags and pump your bots cause it\'s get, set and GO!!!.',
+						'contacts':'Imran beg;  IBM2014031;  8090287537<br>Apoorva agarwal ; IEC2013050;<br>Srijan Sharma; IBM2014013; 7081044464  '
+					},
 	'Biomedia':{
 						'rule':' 1>    quiz:- This round contains question based on  general aptitude , reasoning type question and general biology question.Type of question are MCQ,matching type,diagram labelling.This round is the eligibility round for the next or final round.<br>Total time:-45 min<br>Total question:-60<br>Minus marking:- 1/4<br><br>2>. Buzzer(Final round):-This round is buzzer type round .Question in this round based on principle behind the biomedical instruments,disease and healthcare system.This round  may also contain  audio visual type questions.<br>Minus marking :- 1/2<br><br>',
 						'description':'This event contain different type of question oriented to bioengineering(biomedical , biotechnology engineering or any applied science courses  related to biology.this event consist of two rounds',
 						'contacts':'Kumar Sanyam, IIT2013121, Ph- 8953322927'
 					},
-	'CMaster':{
+	'CMaster':{						
+						'rule':'1. It&#39;s an individual event.<br>2. Language will be provided on the spot and relevent tutorials will also be given.<br>3. Questionare will be given along with the tutorials.<br>4. systems will be provided .<br>',
+						'description':'A random language will be provided and tutorials relevent to this language will be provided. Candidates will be required to solve a set of problems within particular timeinterval.',
+						'contacts':'K. BhagyaRaj , iit2013042 , 7897009371<br>Aditya Vardhan,iit2013044, 7084426314<br>Osama Siddiqui, iit2013023, 8960448482'
+					},
+	'CFresh':{
 						'rule':'1. This is a Team contest. Number of members in each team is 2.<br>2. The contest is limited to the students studying in their 1st year Undergraduate Course.<br>3. All inputs for the programming problem are from STDIN and output to STDOUT. You can submit solution for a programming problem as many times as you want.<br>4. Only languages allowed are C, C++.<br>5. All the problems have same points alloted to them.<br>6. Users are ranked according to the most problems solved. Ties will be broken by the total time for each user in ascending order of time.<br>7. The total time is the sum of the time consumed for each problem solved. The time consumed for a solved problem is the time elapsed from the beginning of the contest to the submission of the first accepted run plus 20 penalty minutes for every previously rejected run for that problem(Wrong answer, Time limit exceeded, Runtime Error). There is no time consumed for a problem that is not solved.<br>8. The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.<br>9. Any participant found to be indulging in any form of malpractice will be immediately disqualified.<br>',
 						'description':'C-Fresh is a programming contest held each year at IIIT-Allahabad to promote competitive programming among the students of first year. Contestants will need to appear in qualifying round in a team of two. This will be followed by a onsite round to be held on 3rd of April, 2016.<br>Prelims - 30th March (03:00 p.m. - 05:00 p.m.)<br>Finale - 3rd April (03:00 p.m. - 06:30 p.m.)',
 						'contacts':'K Ashwin  - 8953345669 - IIT2013133<br>Neeraj Agarwal - 8853431306 - IIT2013189<br>Manan Jain - 8808724223 - IEC2013059<br>Shiv Dhingra - 8858840981 - IIT2013037<br>'
@@ -123,7 +133,7 @@ var allevents = {
 						'description':'How fast you can type??',
 						'contacts':'<ul><li>Swapnil Singh</li><li>Princy Choudhary</li><li>Jatin Goel</li><li>Laxmi</li><li>Praveen Kumar</li><li>Abhinaya Kurnala</li></ul>'
 					},
-	'Riddilonics':{
+	'Riddle':{
 						'rule':'<ul><li>There will be two members per group.</li><li> For the second round every group should bring one laptop with installed multisim and ultiboard.</li></ul>',
 						'description':'It is an event which tests your electronics,multisim and circuit making knowledge.<br><ul><li><b>First Round</b><br>we will be conducting a quiz which can be multiple choice or fill in the blank type of questions.</li><li><b>Second Round</b><br>Second round : Short listed students of 1st round will be participating in this and they have to be preparing or editing the multisim file we will be giving you on spot.</li><li><b>Third Round</b><br>Third round : This is the final round and the short listed students of 2nd round will be given a circuit to design on spot.</li></ul>',
 						'contacts':'<ul><li>Puthi Bhavana</li><li>Karada Hareesh</li><li>Sugandh Sagar</li></ul>'
@@ -142,10 +152,15 @@ var allevents = {
 						'description':'Can you complete your teammate\'s incomplete code??? Give it a try at this exciting event.Please follow the following rules in exact order of their sequences.<br>Scoring And Evaluation Criteria :<br>For each code successfully compiled (out of 3), the team will be awarded +10 and each test case for which the code gives the correct output the team will be awarded +5.',			
 						'contacts':'<ul><li>K Bhagyaraj (7897009371)</li><li>Osama Siddiqui (8960448482)</li><li>Shivam Goel (8176027469)</li><li>K Sai Krishna Kasturi (7080329502)</li></ul>'
 					},
-	'Wolfof2311':{
+	'Wolf':{
 						'rule':'<ul><li>It is a team event and each team will have 2 members. </li><li> There will be three rounds.</li><li>1st  round  is  an  electronics  quiz  that  will  test  your  basic  knowledge  of  hardware.  It  is  a multiple  choice  round  consisting  of  30  questions  and  time  limit  is  60  minutes.  You  will  earn virtual money (points) for each correct answers penalised for wrong.</li><li>2nd round will be circuit designing on the breadboard.Points earned in previous round.</li><li>3rd round consists of real life problem based on circuit design.</li><li>1st prize : Rs. 3000 /Â­ 2nd prize : Rs. 2000 /Â­ 3rd prize : Rs. 1000 /Â­.</li></ul>',
 						'description':'Wolf of 2311 is a team event of electronics hardware design. Test your Technical knowledge with a slight blend of entrepreneurship skills in 2311, the quintessential electronics lab of IIITA.<br><b>3 Rounds : </b><br>1st : 30 MCQ ,60 minutes, max = 150 + 30; top 25% of student Â­> next round (1st day 5:00 PM Â­ 6:00 PM) Pen and paper. CCÂ­3.<br>2nd : 4 max question Â­> 5,10,20,40 points each after 15 minutes. (All hardware design questions) 25% top of student. Each component has differ points. 60 minutes. (2nd day 11:00 AM) CCÂ­1 2311<br>3rd : one real life electronics Question. 30 minutes. (same day 12:00 PM) CCÂ­1 2311.',			
 						'contacts':'<ul><li>Hetiraj Himanshu  - 7376481872</li><li>Shubham Dewangan - 8176027482</li><li>Puja Kumari - 8090297894</li><li>Naveen - 9473726837</li></ul>'
+					},
+	'Technobooz':{
+						'rule':'',
+						'description':'Online Quiz based on Robotics',			
+						'contacts':'Raj Banoth<br>Sweety Kumari<br>.'
 					},
 
 }
